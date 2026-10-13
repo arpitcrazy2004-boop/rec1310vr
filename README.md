@@ -1,24 +1,25 @@
 ## Introduction
 
+**Discipline:** Physics
 
-<b>Discipline | <b>Fill your discipline name here
-:--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+**Lab:** Virtual Physics Lab
 
-### About the Experiment 
+**Experiment:** Rec1310VR
 
-Fill a brief description of this experiment here
+### About the Experiment
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
-:--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+This virtual lab provides an interactive, browser-based environment for learning physics concepts through virtual experiments.
+
+**Name of Developer:** Your Name
+
+**Institute:** Your Institute
+
+**Email ID:** Your Email
+
+**Department:** Physics
 
 ### Contributors List
 
-SrNo | Name | Faculty or Student | Department| Institute | Email id
-:--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+| Sr. No. | Name | Faculty or Student | Department | Institute | Email ID |
+|---|---|---|---|---|---|
+| 1 | Your Name | Student | Physics | Your Institute | Your Email |
